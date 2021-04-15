@@ -1,0 +1,12 @@
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\bin\Debug\MediaAritmetica.exe.config
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\bin\Debug\MediaAritmetica.exe
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\bin\Debug\MediaAritmetica.pdb
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\bin\Debug\MediaAritmetica.xml
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\obj\Debug\MediaAritmetica.vbprojAssemblyReference.cache
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\obj\Debug\MediaAritmetica.Form1.resources
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\obj\Debug\MediaAritmetica.Resources.resources
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\obj\Debug\MediaAritmetica.vbproj.GenerateResource.cache
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\obj\Debug\MediaAritmetica.vbproj.CoreCompileInputs.cache
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\obj\Debug\MediaAritmetica.exe
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\obj\Debug\MediaAritmetica.xml
+D:\Jesus\Programacion\VisualBasic\MediaAritmetica\MediaAritmetica\obj\Debug\MediaAritmetica.pdb
